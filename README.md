@@ -25,4 +25,4 @@ Si $\{\eta_j\}$ son variables aleatorias i.i.d con distribución Normal $\mathca
   
 $$\rho(\lambda)=\frac{2k}{\sqrt{2\pi N\sigma_\eta^2 \lambda}}e^{-\frac{4k\lambda}{2N\sigma_\eta^2}}, \quad \lambda>0.$$
     
-* $\sigma_d \lessapprox 2\pi$.
+* $\sigma_d \lessapprox 2\pi$. La desivación estandar es comparable con la media.
